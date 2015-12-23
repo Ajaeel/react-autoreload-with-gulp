@@ -1,5 +1,5 @@
-# building-app-with-react-flux
-## Welcome to React.js & Gulp example!
+# React.js with Gulp example!
+
 
 First, install [git](http://git-scm.com/downloads) and [node.js](https://nodejs.org/). Then:
 
