@@ -4,7 +4,7 @@ First, install [git](http://git-scm.com/downloads) and [node.js](https://nodejs.
 
 ```sh
 $ git clone https://github.com/jadhavajay/react-autoreload-with-gulp.git
-$ cdbuilding-app-with-react-flux
+$ cd react-autoreload-with-gulp
 $ npm install
-$ npm start
+$ gulp
 ```
